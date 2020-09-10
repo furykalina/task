@@ -1,0 +1,11 @@
+{
+  "appUrl": "https://hedonist-3-121-181-81.nip.io/login",
+  "regFirstName": "regisUserFirst",
+  "regLastName": "regisUserLast",
+  "regEmail": "registrationF7@test.com",
+  "regPassword": "123456",
+  "invalidEmail": "parampampam",
+  "invalidPassword": "123456",
+  "emailListCreation": "2@test.com",
+  "listName": "1234"
+}
