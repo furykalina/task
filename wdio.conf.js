@@ -4,7 +4,7 @@ const ROOT_DIR = path.resolve(__dirname);
 const SPECS_DIR = path.join(ROOT_DIR, 'specs');
 const OUTPUT_DIR = path.join(ROOT_DIR, 'output');
 const SCREENSHOT_DIR = path.join(OUTPUT_DIR, 'screenshots');
-const testPattern = path.relative(ROOT_DIR, path.join(SPECS_DIR, '**', '*_test.js'));
+const testPattern = path.relative(ROOT_DIR, path.join(SPECS_DIR, '**', '*expectedConditionsWingg.js'));
 
 const mochaTimeout = process.env.DEBUG ? 99999999 : 60000;
 
